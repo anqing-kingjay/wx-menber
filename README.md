@@ -1,1 +1,1 @@
-# wx-menber
+# wx-menber app
